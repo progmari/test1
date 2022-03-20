@@ -1,0 +1,31 @@
+.Header {
+    height: 5vw;
+    padding: 0 15vw;
+    background-color: #fff;
+    color: #00244A;
+    font-weight: 700;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Header__logo {
+    font-size: 2vw;
+    
+}
+
+.Header__user {
+    width: 9vw;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Header__user-logo {
+    width: 3vw;
+    height: 3vw;
+    background-color: #3DA936;
+    border-radius: 50%;
+}
